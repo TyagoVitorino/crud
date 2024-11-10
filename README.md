@@ -36,8 +36,8 @@ Before running the application, make sure you have the following installed:
 1. **Clone the repository** to your local machine:
 
     ```bash
-    git clone https://your-repository-url.git
-    cd your-project-directory
+    git clone https://github.com/TyagoVitorino/crud
+    cd crud
     ```
 
 2. **Docker Setup**
